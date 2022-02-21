@@ -1,0 +1,66 @@
+[
+  {
+    "name": "paragraph",
+    "icon": "format_textdirection_l_to_r"
+  },
+  {
+    "name": "preformatted",
+    "icon": "format_quote"
+  },
+  {
+    "name": "heading1",
+    "icon": "title"
+  },
+  {
+    "name": "heading2",
+    "icon": "title"
+  },
+  {
+    "name": "heading3",
+    "icon": "title"
+  },
+  {
+    "name": "heading4",
+    "icon": "title"
+  },
+  {
+    "name": "heading5",
+    "icon": "title"
+  },
+  {
+    "name": "heading6",
+    "icon": "title"
+  },
+  {
+    "name": "strong",
+    "icon": "format_bold"
+  },
+  {
+    "name": "em",
+    "icon": "format_italic"
+  },
+  {
+    "name": "hyperlink",
+    "icon": "link"
+  },
+  {
+    "name": "image",
+    "icon": "image"
+  },
+  {
+    "name": "embed",
+    "icon": "picture_in_picture_alt"
+  },
+  {
+    "name": "list-item",
+    "icon": "format_list_bulleted"
+  },
+  {
+    "name": "o-list-item",
+    "icon": "format_list_numbered"
+  },
+  {
+    "name": "rtl",
+    "icon": "format_align_right"
+  }
+]
